@@ -1,0 +1,12 @@
+com.llfbandit.app_links-jetified-window-1.0.0-beta04-0 C:\Users\maged\.gradle\caches\transforms-3\3547045148f823ae82ba5f00da62432e\transformed\jetified-window-1.0.0-beta04\res
+com.llfbandit.app_links-core-1.6.0-1 C:\Users\maged\.gradle\caches\transforms-3\448e12895481b74f12aa96a40a56e1d8\transformed\core-1.6.0\res
+com.llfbandit.app_links-jetified-annotation-experimental-1.1.0-2 C:\Users\maged\.gradle\caches\transforms-3\d5b68f2b2b74dc022302f312e278ba97\transformed\jetified-annotation-experimental-1.1.0\res
+com.llfbandit.app_links-jetified-window-java-1.0.0-beta04-3 C:\Users\maged\.gradle\caches\transforms-3\e35e8dc727b74800fd8b576809d7e083\transformed\jetified-window-java-1.0.0-beta04\res
+com.llfbandit.app_links-main-4 C:\Users\maged\AppData\Local\Pub\Cache\hosted\pub.dev\app_links-3.4.1\android\src\main\res
+com.llfbandit.app_links-release-5 C:\Users\maged\AppData\Local\Pub\Cache\hosted\pub.dev\app_links-3.4.1\android\src\release\res
+com.llfbandit.app_links-pngs-6 C:\Users\maged\Downloads\muhtar\build\app_links\generated\res\pngs\release
+com.llfbandit.app_links-resValues-7 C:\Users\maged\Downloads\muhtar\build\app_links\generated\res\resValues\release
+com.llfbandit.app_links-rs-8 C:\Users\maged\Downloads\muhtar\build\app_links\generated\res\rs\release
+com.llfbandit.app_links-mergeReleaseResources-9 C:\Users\maged\Downloads\muhtar\build\app_links\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.llfbandit.app_links-mergeReleaseResources-10 C:\Users\maged\Downloads\muhtar\build\app_links\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.llfbandit.app_links-merged_res-11 C:\Users\maged\Downloads\muhtar\build\app_links\intermediates\merged_res\release

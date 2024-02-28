@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916791451675",
+    "project_id": "medina-server",
+    "storage_bucket": "medina-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916791451675:android:e53521420b8c0afed018be",
+        "android_client_info": {
+          "package_name": "muhtar.deskvera.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhj5yAk_hpKUpuj62VdRfhU4V-J0beOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
